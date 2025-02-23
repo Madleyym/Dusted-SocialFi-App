@@ -4,6 +4,11 @@ Bot for automating daily play and claim in Lasso Game (Monad testnet).
 
 > ℹ️ Note: If you don't want to use private key, you can use alternative bot in `/no-need-pk` directory instead.
 
+
+## 🎮 Dusted Register
+[➡️ Register here](https://www.dusted.app/?referralCode=F69QT9HL) to start playing!
+
+
 ## 🔥 Features
 - Auto Play Lasso Game
 - Auto Claim Daily Points
